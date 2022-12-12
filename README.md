@@ -121,7 +121,14 @@ As desired the user shall comment the unneeded function and allow other lines of
 Issue the command **python3 **hashing.py 
 There is an already inserted user under the username: sarah and password:sa22 for testing.
 
-![playGuide]([https://global.codio.com/platform/readme.resources/playGuide.pn](https://github.com/RoudaAlhajri/queens_py/blob/main/Screen%20Shot%202022-12-12%20at%204.42.31%20PM.png?raw=true)g)
+add user demo
+
+
+![playGuide](https://raw.githubusercontent.com/RoudaAlhajri/imgs/main/hashing_login.png)
+
+login demo
+
+![playGuide](https://raw.githubusercontent.com/RoudaAlhajri/imgs/main/hashing_add_user.png)
 
 
 
